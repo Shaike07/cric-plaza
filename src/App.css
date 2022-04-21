@@ -1,0 +1,40 @@
+a {
+    margin:  5px;
+    text-decoration: none !important;
+}
+table a
+{
+    color: blue !important; 
+}
+a,a:visited {
+    color: white;
+}
+a.active{
+    color: red;
+}
+div{
+    margin: 25px;
+}
+.welcome{
+    text-align: center;
+    margin-top:200px;
+    color: royalblue;
+}
+div.row{
+    background : #17a2b8;
+}
+.col-sm-2{
+    background : green;
+    width : 100px;
+}
+table{
+    font-size: 20px;
+}
+.w-50 td {
+    font-size: 25px;
+    color: rgb(20, 1, 1)
+    /* padding: 15px; */
+}
+div{
+    margin: 0px 15px;
+}
