@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/cric-plaza/static/css/main.c1ad2426.chunk.css",
+    "main.js": "/cric-plaza/static/js/main.a4ef82ef.chunk.js",
+    "main.js.map": "/cric-plaza/static/js/main.a4ef82ef.chunk.js.map",
+    "runtime~main.js": "/cric-plaza/static/js/runtime~main.e99edd5b.js",
+    "runtime~main.js.map": "/cric-plaza/static/js/runtime~main.e99edd5b.js.map",
+    "static/css/2.266e55a5.chunk.css": "/cric-plaza/static/css/2.266e55a5.chunk.css",
+    "static/js/2.6f2f86c8.chunk.js": "/cric-plaza/static/js/2.6f2f86c8.chunk.js",
+    "static/js/2.6f2f86c8.chunk.js.map": "/cric-plaza/static/js/2.6f2f86c8.chunk.js.map",
+    "index.html": "/cric-plaza/index.html",
+    "precache-manifest.7bc7148ea5f2472a76147c33cd5fea49.js": "/cric-plaza/precache-manifest.7bc7148ea5f2472a76147c33cd5fea49.js",
+    "service-worker.js": "/cric-plaza/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/cric-plaza/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.c1ad2426.chunk.css.map": "/cric-plaza/static/css/main.c1ad2426.chunk.css.map"
+  }
+}
